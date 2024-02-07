@@ -34,7 +34,7 @@ const App = () => {
 
 	return (
 		<main>
-			<h1>Burger Shop</h1>
+			<h1>Burger Stacker</h1>
 			<section>
 				<IngredientList
 					addToBurger={addToBurger}
